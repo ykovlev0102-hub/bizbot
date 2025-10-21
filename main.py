@@ -6,7 +6,7 @@ import os
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
-bot = telebot.TeleBot(8345133648:AAHEH-H4mcBkXd8TTUQnh-dbFbtbeQATZOk)
+bot = 8345133648:AAHEH-H4mcBkXd8TTUQnh-dbFbtbeQATZOk
 openai.api_key = OPENAI_API_KEYsk-proj-li8P2_Y1MWOuUAH_r4IynIgHFFbdRYgf6BKGqvwzoL1-dDRVTIyWyfexbXn79NHPpaywrSvoWeT3BlbkFJQ3UZksccuSyO8A-mb3W6j-Bgi8xfKALI1l3dCMKNBWYkK7TYnWMdEmrh4hmSNb4-vc4uSjRIcA
 
 # === 🌍 Языковая поддержка ===
